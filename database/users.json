@@ -7,8 +7,8 @@
     "password": "7ad7921061c27700f40398f86a68e8dc8b691c8a2bbe7a289f920fe37cb8e974",
     "token": "f63018e11da3f99653f9296b136fb384a26d3e7423a20a7a61dc172b63c39af2",
     "avatar": "https://api.dicebear.com/7.x/initials/svg?seed=arman&backgroundColor=e2e8f0,cbd5e1,94a3b8",
-    "verified": false,
-    "role": "user",
+    "verified": true,
+    "role": "admin",
     "createdAt": "2026-03-20T22:29:37.371Z"
   }
 ]
